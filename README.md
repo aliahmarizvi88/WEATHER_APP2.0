@@ -51,16 +51,19 @@ cd WEATHER_APP2.0
 ````
 
 2. **Install dependencies**
+   
 npm install
 # or
 yarn install
 
-3. Start the development server
+3. **Start the development server**
+   
 npm run dev
 # or
 yarn dev
 
-4. Build for production
+4. **Build for production**
+   
 npm run build
 # or
 yarn build
